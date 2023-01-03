@@ -1,0 +1,1 @@
+# window-dialog for beginner
