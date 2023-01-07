@@ -3,4 +3,4 @@
 
 ### Jendela dialog `alert()`;
 ### Jendela dialog `confirm()`;
-### Jendela dialog `promp()`;
+### Jendela dialog `prompt()`;
